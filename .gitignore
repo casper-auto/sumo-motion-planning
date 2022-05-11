@@ -1,0 +1,5 @@
+build
+bin
+*.pyc
+.deps
+.vscode
